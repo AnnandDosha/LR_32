@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\bin\Debug\LR_32.exe.config
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\bin\Debug\LR_32.exe
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\bin\Debug\LR_32.pdb
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.csprojAssemblyReference.cache
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.MainForm.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.Properties.Resources.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.RegistrationForm.resources
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.csproj.GenerateResource.cache
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.exe
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.pdb
+C:\Users\User\Desktop\занятия с Саньком\LR_32\LR_32\obj\Debug\LR_32.SquareCircle.resources
